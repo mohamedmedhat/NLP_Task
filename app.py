@@ -38,6 +38,6 @@ st.markdown("---")
 
 st.markdown("""
     <footer style="text-align:center; font-size:14px;">
-        Created with ❤️ by Your Name
+        Created with ❤️ by Mohamed Medhat Elnggar
     </footer>
     """, unsafe_allow_html=True)
